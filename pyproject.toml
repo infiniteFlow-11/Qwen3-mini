@@ -1,0 +1,7 @@
+[project]
+name = "qwen3-mini"
+version = "0.1.0"
+description = "A from the scratch implementation of Qwen-3 LM"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
